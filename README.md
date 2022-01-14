@@ -1,5 +1,4 @@
 <div align=center>
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20Hyeji%20!&fontSize=90&animation=twinkling)
 
 <p align="center">🏝</p>
@@ -20,7 +19,7 @@
 
 <table>
   <tr>
-    <td><img alt="" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=canido" /></td><td><img alt="" src="https://github-readme-stats.vercel.app/api?username=hhyyeejjii&theme=tokyonight&show_icons=true" /></td>
+    <td><img alt="" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=canido" /></td><td><img alt="" src="https://github-readme-stats.vercel.app/api?username=hhyyeejjii&show_icons=true&theme=tokyonight"/></td>
   <tr>
 </table>
 <br>
@@ -32,4 +31,5 @@
 <h3 align="center"> 🌸 My profile 🌸 </h3>
 
 </div>
+
 
