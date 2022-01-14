@@ -1,3 +1,4 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20Hyeji%20!&fontSize=90&animation=twinkling)
 
 <p align="center">🏝</p>
@@ -28,4 +29,6 @@
 <a href="https://www.instagram.com/zzi._.au/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zzi._.au/"/></a>&nbsp;&nbsp;<a href="https://github.com/hhyyeejjii?tab=overview"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hhyyeejjii/"/></a>
 <p>
 <h3 align="center"> 🌸 My profile 🌸 </h3>
+
+</div>
 
